@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer');
 
 const bot = mineflayer.createBot({
   host: 'timbered-saltmarsh.play.hosting',
-  port: 25612,
+  port: 25584,
   username: 'AntiAFK_Bot',
   version: false // لتحديد الإصدار تلقائياً ليتوافق مع السيرفر
 });
