@@ -4,7 +4,7 @@ const bot = mineflayer.createBot({
   host: 'timbered-saltmarsh.play.hosting',
   port: 25584,
   username: 'AntiAFK_Bot',
-  version: false
+  version: true
 });
 
 bot.on('spawn', () => {
